@@ -2,9 +2,9 @@
     "name": "erb",
     "displayName": "Rails Easy Snippets",
     "description": "Rails snippets for erb files",
-    "version": "1.2.0",
+    "version": "1.1.0",
     "publisher": "SamroodAli",
-    "icon": "./images/bullet.png",
+    "icon": "./images/bullet.png ",
     "repository": {
         "type": "git",
         "url": "https://github.com/SamroodAli/rails-easy-snippets"
