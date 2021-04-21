@@ -4,7 +4,7 @@
     "description": "Rails snippets for erb files",
     "version": "1.1.0",
     "publisher": "SamroodAli",
-    "icon": "./bullet.png",
+    "icon": "./images/bullet.png",
     "repository": {
         "type": "git",
         "url": "https://github.com/SamroodAli/rails-easy-snippets"
