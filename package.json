@@ -3,6 +3,7 @@
     "displayName": "rails-easy-snippets",
     "description": "Rails snippets for embedded ruby files",
     "version": "0.0.1",
+    "publisher": "SamroodAli",
     "engines": {
         "vscode": "^1.55.0"
     },
