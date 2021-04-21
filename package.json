@@ -1,8 +1,8 @@
 {
     "name": "erb",
-    "displayName": "rails-easy-snippets",
-    "description": "Rails snippets for embedded ruby files",
-    "version": "0.0.1",
+    "displayName": "Rails Easy Snippets",
+    "description": "Rails snippets for erb files",
+    "version": "1.0.0",
     "publisher": "SamroodAli",
     "engines": {
         "vscode": "^1.55.0"

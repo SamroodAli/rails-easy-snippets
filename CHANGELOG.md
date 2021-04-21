@@ -1,9 +1,6 @@
 # Change Log
 
-All notable changes to the "erb" extension will be documented in this file.
-
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
-
+-1.00: Release form snippets
 ## [Unreleased]
 
-- Initial release
+- Other Rails snippets [Coming soon]
