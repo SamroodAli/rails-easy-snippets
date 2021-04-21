@@ -4,6 +4,7 @@
     "description": "Rails snippets for erb files",
     "version": "1.0.0",
     "publisher": "SamroodAli",
+    "icon": "./bullet.png",
     "engines": {
         "vscode": "^1.55.0"
     },
