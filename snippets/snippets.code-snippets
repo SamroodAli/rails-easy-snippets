@@ -1,0 +1,65 @@
+{
+	"Create a new erb form": {
+		"prefix": "form_with",
+		"body": [
+			"<%= form_with model: @${1:model}, local: true do |form|%>",
+			"  $0",
+			"<% end %>",
+		],
+		"description": "Create a new erb form"
+	},
+	"Create a new form label": {
+		"prefix": "label",
+		"body": [
+			"<%= form.label :${1:attribute} %>",
+			"$0"
+		],
+		"description": "Log output to console"
+	},
+	"Create a new form text field": {
+		"prefix": "text_field",
+		"body": [
+			"<%= form.text_field :${1:attribute} %>",
+			"$0"
+		],
+		"description": "Create a new erb form text-field"
+	},
+	"Create a new form email field": {
+		"prefix": "email_field",
+		"body": [
+			"<%= form.email_field :${1:email} %>",
+			"$0"
+		],
+		"description": "Create a new erb form email-field"
+	}
+	,
+	"Create a new form password field": {
+		"prefix": "password_field",
+		"body": [
+			"<%= form.password_field :${1:password} %>",
+			"$0"
+		],
+		"description": "Create a new erb form password-field"
+	}
+	,
+	"Create a password field with confirmation": {
+		"prefix": "password_with_confirmation",
+		"body": [
+			"<%= form.label :${1:password} %>",
+			"<%= form.password_field :${2:password} %>",
+			"<%= form.label :${3:password_confirmation} %>",
+			"<%= form.password_field :${4:password_confirmation} %>",
+			"$0"
+		],
+		"description": "Create a new erb form password-field"
+	}
+	,
+	"Create a form submit button": {
+		"prefix": "submit",
+		"body": [
+			"<%= form.submit \"${1:Submit}\", class:\"$2\" %>",
+			"$0"
+		],
+		"description": "Create a new erb form password-field"
+	}
+}

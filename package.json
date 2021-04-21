@@ -1,0 +1,20 @@
+{
+    "name": "erb",
+    "displayName": "rails-easy-snippets",
+    "description": "Rails snippets for embedded ruby files",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.55.0"
+    },
+    "categories": [
+        "Snippets"
+    ],
+    "contributes": {
+        "snippets": [
+            {
+                "language": "erb",
+                "path": "./snippets/snippets.code-snippets"
+            }
+        ]
+    }
+}
