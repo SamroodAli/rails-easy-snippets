@@ -2,7 +2,7 @@
     "name": "erb",
     "displayName": "Rails Easy Snippets",
     "description": "Rails snippets for erb files",
-    "version": "1.4.2",
+    "version": "1.4.3",
     "publisher": "SamroodAli",
     "repository": {
         "type": "git",
