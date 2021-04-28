@@ -20,6 +20,12 @@ Users appreciate release notes as you update your extension.
 
 Initial release of form snippets
 
+### 1.4.2
+New in 1.4.2:
+Custom non database default forms snippets
+erb and er= for templates to be placed on html
+Released 
+
 ## Authors
 
 ![Samrood Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=SamroodAli&count_private=true&theme=dark&show_icons=true)
