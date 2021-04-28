@@ -8,6 +8,15 @@
 		],
 		"description": "Create a new erb form"
 	},
+	"Create a new erb session form": {
+		"prefix": "form_with_session",
+		"body": [
+			"<%= form_with url: @${1:path}_path, scope: :${2:session},local: true do |form|%>",
+			"  $0",
+			"<% end %>",
+		],
+		"description": "Create a new erb form"
+	},
 	"Create a new form label": {
 		"prefix": "label",
 		"body": [
@@ -61,6 +70,13 @@
 			"$0"
 		],
 		"description": "Create a new erb form password-field"
-	}
+	},
+	"erb": {
+		"prefix": "erb,er=",
+		"body": [
+			"<%= $1 %>",
+			"$0"
+		],
+		"description": "gives you erb on html. <%= %>"
+	},
 }
-
