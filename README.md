@@ -1,6 +1,10 @@
-# Rails Easy Snippets README
+# Rails Easy Snippets Extension README
 
 Ruby on Rails 6 snippets for embedded ruby files with `erb` extension.
+
+## Download link
+The Extension is available at https://marketplace.visualstudio.com/items?itemName=SamroodAli.erb
+
 ## Current Snippets
 
 * Form_with for forms and other form components
